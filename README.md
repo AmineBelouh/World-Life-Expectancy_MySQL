@@ -6,7 +6,7 @@ This project uses **MySQL** to clean and analyze a world life expectancy dataset
 
 - 📄 [Data_Cleaning.sql](./Data_Cleaning.sql)
 - 📄 [EDA.sql](./EDA.sql)
-- 📊 [WorldLifeExpectancy.csv](./WorldLifeExpectancyScript.sql)
+- 📊 [WorldLifeExpectancyScript.sql](./WorldLifeExpectancyScript.sql)
 
 ## 📈 Analysis
 
